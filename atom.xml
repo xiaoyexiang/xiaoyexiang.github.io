@@ -4,9 +4,9 @@
   <subtitle>肖业翔 叶子 Xiao Yexiang</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://xiaoyexiang.com/"/>
   <updated>2017-03-24T09:26:03.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://xiaoyexiang.com/</id>
   
   <author>
     <name>Xiao Yexiang</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/03/24/hello-world/"/>
-    <id>http://yoursite.com/2017/03/24/hello-world/</id>
+    <link href="http://xiaoyexiang.com/2017/03/24/hello-world/"/>
+    <id>http://xiaoyexiang.com/2017/03/24/hello-world/</id>
     <published>2017-03-24T09:26:03.000Z</published>
     <updated>2017-03-24T09:26:03.000Z</updated>
     
